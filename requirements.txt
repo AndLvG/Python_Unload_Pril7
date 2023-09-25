@@ -1,7 +1,7 @@
 altgraph==0.17
 bottle==0.12.18
 cffi==1.14.0
-gevent==1.4.0
+gevent==23.9.1
 gevent-websocket==0.10.1
 greenlet==0.4.15
 jdcal==1.4.1
